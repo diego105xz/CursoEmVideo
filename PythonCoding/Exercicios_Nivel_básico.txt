@@ -1,0 +1,107 @@
+Variáveis e Tipos de Dados:
+Declare duas variáveis, uma para armazenar seu nome e outra para armazenar sua idade, e imprima na tela.
+Crie uma variável para armazenar o valor de π (pi) e imprima na tela.
+Declare uma variável com o valor booleano True e imprima seu tipo.
+Declare uma variável com uma string que contenha uma aspas simples dentro dela e imprima na tela.
+Declare uma variável com o valor inteiro 42 e outra com o valor float 3.14 e imprima ambas na tela.
+Declare uma variável com o valor string "Python" e imprima na tela apenas o primeiro caractere.
+Declare duas variáveis, uma com o valor 10 e outra com o valor 5, e imprima a soma e a subtração delas.
+Declare uma variável com uma string de várias linhas (pode usar aspas triplas) e imprima na tela.
+Declare uma variável com o valor de uma data (por exemplo, "30/04/2024") e imprima na tela.
+Declare uma variável com o valor de uma lista de números (por exemplo, [1, 2, 3, 4, 5]) e imprima na tela.
+
+Estruturas de Controle:
+Escreva um programa que verifique se um número é positivo, negativo ou zero.
+Escreva um programa que verifique se um número é par ou ímpar.
+Escreva um programa que compare dois números e imprima o maior deles.
+Escreva um programa que verifique se um número é divisível por 3 e por 5.
+Escreva um programa que leia dois números e imprima "Aprovado" se a média deles for maior ou igual a 7, caso contrário, imprima "Reprovado".
+Escreva um programa que leia três números e imprima-os em ordem crescente.
+Escreva um programa que leia um caractere e verifique se é uma vogal ou uma consoante.
+Escreva um programa que leia o ano de nascimento de uma pessoa e imprima se ela é maior de idade ou não.
+Escreva um programa que calcule o preço final de um produto com base no preço original e na porcentagem de desconto fornecida pelo usuário.
+Escreva um programa que imprima todos os números de 1 a 100.
+
+Listas e Loops:
+Crie uma lista com 5 nomes e imprima na tela.
+Escreva um programa que imprima na tela todos os elementos de uma lista.
+Escreva um programa que imprima na tela os elementos de uma lista em ordem inversa.
+Escreva um programa que calcule a soma de todos os elementos de uma lista.
+Escreva um programa que encontre o maior elemento de uma lista.
+Escreva um programa que remova os elementos duplicados de uma lista.
+Escreva um programa que multiplique todos os elementos de uma lista por um valor dado.
+Escreva um programa que leia uma lista de números e imprima apenas os números pares.
+Escreva um programa que crie uma lista de números pares de 1 a 100.
+Escreva um programa que leia duas listas e imprima uma terceira lista contendo apenas os elementos comuns entre as duas.
+
+Funções:
+Escreva uma função que calcule o quadrado de um número.
+Escreva uma função que calcule o fatorial de um número.
+Escreva uma função que verifique se um número é primo.
+Escreva uma função que verifique se uma palavra é um palíndromo.
+Escreva uma função que calcule a soma dos dígitos de um número.
+Escreva uma função que verifique se um número é uma potência de dois.
+Escreva uma função que converta temperatura de Celsius para Fahrenheit.
+Escreva uma função que ordene uma lista de números.
+Escreva uma função que calcule o máximo divisor comum (MDC) de dois números.
+Escreva uma função que calcule a raiz quadrada de um número.
+
+Manipulação de Strings:
+Escreva um programa que concatene duas strings.
+Escreva um programa que verifique se uma palavra está contida em uma string.
+Escreva um programa que conte o número de vogais em uma string.
+Escreva um programa que inverta uma string.
+Escreva um programa que verifique se uma string é um palíndromo.
+Escreva um programa que remova os espaços em branco de uma string.
+Escreva um programa que conte o número de ocorrências de uma palavra em uma string.
+Escreva um programa que capitalize a primeira letra de cada palavra em uma string.
+Escreva um programa que substitua uma palavra por outra em uma string.
+Escreva um programa que verifique se uma string contém apenas dígitos.
+
+Compreensão de Listas:
+Escreva um programa que crie uma lista de quadrados dos números de 1 a 10.
+Escreva um programa que crie uma lista com os números pares de 1 a 20.
+Escreva um programa que crie uma lista de palavras a partir de uma string.
+Escreva um programa que crie uma lista de números ímpares de 1 a 30.
+Escreva um programa que crie uma lista de múltiplos de 3 de 1 a 50.
+Escreva um programa que crie uma lista de cubos dos números de 1 a 15.
+Escreva um programa que crie uma lista de letras maiúsculas do alfabeto.
+Escreva um programa que crie uma lista de strings com as letras de uma palavra.
+Escreva um programa que crie uma lista de números aleatórios.
+Escreva um programa que crie uma lista de números pares e ímpares de 1 a 20.
+
+Entrada e Saída de Dados:
+Escreva um programa que leia um número e imprima o seu dobro.
+Escreva um programa que leia dois números e imprima a soma deles.
+Escreva um programa que leia o raio de um círculo e calcule sua área.
+Escreva um programa que leia a base e a altura de um triângulo e calcule sua área.
+Escreva um programa que leia um número e imprima sua raiz quadrada.
+Escreva um programa que leia um número e verifique se ele é positivo, negativo ou zero.
+Escreva um programa que leia o nome e a idade de uma pessoa e imprima na tela.
+Escreva um programa que leia uma temperatura em Celsius e imprima em Fahrenheit.
+Escreva um programa que leia uma string e imprima seu comprimento.
+Escreva um programa que leia uma lista de números e imprima o maior e o menor valor.
+
+Estrutura Condicional:
+Escreva um programa que verifique se um número é positivo.
+Escreva um programa que verifique se um número é par.
+Escreva um programa que verifique se um número é divisível por 3.
+Escreva um programa que verifique se um número é primo.
+Escreva um programa que verifique se uma pessoa é maior de idade.
+Escreva um programa que verifique se uma pessoa pode dirigir.
+Escreva um programa que verifique se um aluno foi aprovado.
+Escreva um programa que verifique se um número é múltiplo de 5.
+Escreva um programa que verifique se uma pessoa pode se aposentar.
+Escreva um programa que verifique se uma pessoa pode votar.
+
+Estrutura de Repetição:
+Escreva um programa que imprima os números de 1 a 10.
+Escreva um programa que imprima os números pares de 1 a 20.
+Escreva um programa que imprima os números ímpares de 1 a 30.
+Escreva um programa que imprima os números múltiplos de 3 de 1 a 50.
+Escreva um programa que imprima os números de trás para frente de 1 a 10.
+Escreva um programa que imprima os números de 10 a 1.
+Escreva um programa que imprima a tabuada de um número.
+Escreva um programa que imprima os números de 1 a 100 pulando de 5 em 5.
+Escreva um programa que imprima os números de 1 a 20, mas pare quando encontrar um número múltiplo de 5.
+Escreva um programa que imprima os números de 1 a 100, substituindo os múltiplos de 3 por "Fizz", os múltiplos de 5 por "Buzz" e os múltiplos de ambos por "FizzBuzz".
